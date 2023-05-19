@@ -11,6 +11,7 @@ use Illuminate\Support\Carbon;
 use Stancl\Tenancy\Database\Concerns\BelongsToTenant;
 use Str;
 
+
 /**
  * Class Bed
  *
