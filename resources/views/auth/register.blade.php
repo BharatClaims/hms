@@ -5,6 +5,7 @@ App::setLocale(session('languageName'));
 ?>
 @extends('layouts.auth_app')
 
+
 @section('title')
     {{ __('auth.registration.registration') }}
 @endsection
